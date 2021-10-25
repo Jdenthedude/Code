@@ -1,0 +1,16 @@
+public class Bell {
+    
+public Bell(){
+}
+
+public String Ring (String x){
+    String y = "";
+    if (x.equals(" ")){
+        y = "*Ring*";
+    }else{
+
+    }
+    return y;
+}
+
+}
